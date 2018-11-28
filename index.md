@@ -14,7 +14,7 @@ Hi! I'm **Naveen T P**, working as an Android/iOS developer at [SecurAX Tech Sol
 - [Android Weekly #321](http://androidweekly.net/issues/issue-321) (Awesome List Of Online Tools For Android Developers)
 - [MindOrks Newsletter #10](https://mindorks.com/newsletter/edition/10) (Awesome List Of Online Tools For Android Developers)
 - [Android LibHunt #111](https://android.libhunt.com/newsletter/111) (Awesome List Of Online Tools For Android Developers)
-- [MindOrks Newsletter #10](https://mindorks.com/newsletter/edition/4) (Lint’s STOPSHIP can save you from pushing your buggy code to production)
+- [MindOrks Newsletter #4](https://mindorks.com/newsletter/edition/4) (Lint’s STOPSHIP can save you from pushing your buggy code to production)
 
 ### Blogging
 - Nov 2018 - [How did I automate the generation of release APK](https://medium.com/mindorks/how-did-i-automate-the-generation-of-release-apk-3e42b6540a4a)
@@ -27,6 +27,7 @@ Hi! I'm **Naveen T P**, working as an Android/iOS developer at [SecurAX Tech Sol
 
 - [MVVM-To-Do-App](https://github.com/Naveentp/MVVM-To-Do-App) - [![GitHub stars](https://img.shields.io/github/stars/naveentp/MVVM-To-Do-App.svg?style=social&label=Star)](https://github.com/Naveentp/MVVM-To-Do-App) [![GitHub forks](https://img.shields.io/github/forks/naveentp/MVVM-To-Do-App.svg?style=social&label=Fork)](https://github.com/Naveentp/MVVM-To-Do-App/fork) [![GitHub watchers](https://img.shields.io/github/watchers/naveentp/MVVM-To-Do-App.svg?style=social&label=Watch)](https://github.com/Naveentp/MVVM-To-Do-App)  
 Android To-Do MVVM Architecture App written in Kotlin.(ViewModel, ROOM, Livedata, Coroutines)
+
 - [Link-Me-Up](https://github.com/Naveentp/Link-Me-Up) - [![GitHub stars](https://img.shields.io/github/stars/naveentp/Link-Me-Up.svg?style=social&label=Star)](https://github.com/Naveentp/Link-Me-Up) [![GitHub forks](https://img.shields.io/github/forks/naveentp/Link-Me-Up.svg?style=social&label=Fork)](https://github.com/Naveentp/Link-Me-Up/fork)[![GitHub watchers](https://img.shields.io/github/watchers/naveentp/Link-Me-Up.svg?style=social&label=Watch)](https://github.com/Naveentp/Link-Me-Up)  
 Any technical information which I come across will be logged here. 
 - [RxKotlin-Playground](https://github.com/Naveentp/RxKotlin-Playground)|[![GitHub stars](https://img.shields.io/github/stars/Naveentp/RxKotlin-Playground.svg?style=social&label=Star)](https://github.com/Naveentp/RxKotlin-Playground) [![GitHub forks](https://img.shields.io/github/forks/Naveentp/RxKotlin-Playground.svg?style=social&label=Fork)](https://github.com/Naveentp/RxKotlin-Playground/fork)[![GitHub watchers](https://img.shields.io/github/watchers/Naveentp/RxKotlin-Playground.svg?style=social&label=Watch)](https://github.com/Naveentp/RxKotlin-Playground)  
