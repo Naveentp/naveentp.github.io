@@ -10,6 +10,7 @@ Hi! I'm **Naveen T P**, working as an Android/iOS developer at [SecurAX Tech Sol
 
 ### Recent activities
 - Joined [MindOrks](https://medium.com/mindorks/about), [ProAndroidDev](https://proandroiddev.com/about) publication as a Writer.
+- [MindOrks Newsletter #22](https://mindorks.com/newsletter/edition/22) (How did I automate the generation of release APK)
 - [Android Weekly #337](http://androidweekly.net/issues/issue-337) (How did I automate the generation of release APK)
 - [Android Weekly #321](http://androidweekly.net/issues/issue-321) (Awesome List Of Online Tools For Android Developers)
 - [MindOrks Newsletter #10](https://mindorks.com/newsletter/edition/10) (Awesome List Of Online Tools For Android Developers)
@@ -30,7 +31,7 @@ Android To-Do MVVM Architecture App written in Kotlin.(ViewModel, ROOM, Livedata
 
 - [Link-Me-Up](https://github.com/Naveentp/Link-Me-Up) - [![GitHub stars](https://img.shields.io/github/stars/naveentp/Link-Me-Up.svg?style=social&label=Star)](https://github.com/Naveentp/Link-Me-Up) [![GitHub forks](https://img.shields.io/github/forks/naveentp/Link-Me-Up.svg?style=social&label=Fork)](https://github.com/Naveentp/Link-Me-Up/fork)[![GitHub watchers](https://img.shields.io/github/watchers/naveentp/Link-Me-Up.svg?style=social&label=Watch)](https://github.com/Naveentp/Link-Me-Up)  
 Any technical information which I come across will be logged here. 
-- [RxKotlin-Playground](https://github.com/Naveentp/RxKotlin-Playground)|[![GitHub stars](https://img.shields.io/github/stars/Naveentp/RxKotlin-Playground.svg?style=social&label=Star)](https://github.com/Naveentp/RxKotlin-Playground) [![GitHub forks](https://img.shields.io/github/forks/Naveentp/RxKotlin-Playground.svg?style=social&label=Fork)](https://github.com/Naveentp/RxKotlin-Playground/fork)[![GitHub watchers](https://img.shields.io/github/watchers/Naveentp/RxKotlin-Playground.svg?style=social&label=Watch)](https://github.com/Naveentp/RxKotlin-Playground)  
+- [RxKotlin-Playground](https://github.com/Naveentp/RxKotlin-Playground) - [![GitHub stars](https://img.shields.io/github/stars/Naveentp/RxKotlin-Playground.svg?style=social&label=Star)](https://github.com/Naveentp/RxKotlin-Playground) [![GitHub forks](https://img.shields.io/github/forks/Naveentp/RxKotlin-Playground.svg?style=social&label=Fork)](https://github.com/Naveentp/RxKotlin-Playground/fork)[![GitHub watchers](https://img.shields.io/github/watchers/Naveentp/RxKotlin-Playground.svg?style=social&label=Watch)](https://github.com/Naveentp/RxKotlin-Playground)  
 Learning reactive extensions by examples in Kotlin.
 
 ### Client/Personal projects
