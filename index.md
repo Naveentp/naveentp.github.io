@@ -18,6 +18,7 @@ Hi! I'm **Naveen T P**, working as an Android/iOS developer at [SecurAX Tech Sol
 - [MindOrks Newsletter #4](https://mindorks.com/newsletter/edition/4) (Lint’s STOPSHIP can save you from pushing your buggy code to production)
 
 ### Blogging
+- Dec 2018 - [My Year-In-Review — 2018](https://medium.com/@naveentp/my-year-in-review-2018-e9ab7a1dd0a3)
 - Nov 2018 - [How did I automate the generation of release APK](https://medium.com/mindorks/how-did-i-automate-the-generation-of-release-apk-3e42b6540a4a)
 - July 2018 - [Awesome List Of Online Tools For Android Developers](https://proandroiddev.com/awesome-list-of-online-tools-for-android-developers-f40af8f46299)
 - Feb 2018 - [Lint’s STOPSHIP can save you from pushing your buggy code to production](https://medium.com/@naveentp/lints-stopship-can-save-you-from-pushing-your-buggy-code-to-production-4fa0db40d9b1)
