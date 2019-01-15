@@ -9,6 +9,7 @@ Hi! I'm **Naveen T P**, working as an Android/iOS developer at [SecurAX Tech Sol
 
 
 ### Recent activities
+- [MindOrks Newsletter #27](https://mindorks.com/newsletter/edition/27) (No more SMS & Call Log permissions, Now what?)
 - Joined [MindOrks](https://medium.com/mindorks/about), [ProAndroidDev](https://proandroiddev.com/about) publication as a Writer.
 - [MindOrks Newsletter #22](https://mindorks.com/newsletter/edition/22) (How did I automate the generation of release APK)
 - [Android Weekly #337](http://androidweekly.net/issues/issue-337) (How did I automate the generation of release APK)
