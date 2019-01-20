@@ -1,5 +1,7 @@
 ### Hello world!
 
+<img style="border-radius: 50%; width: 100px" src="https://avatars2.githubusercontent.com/u/16202134" />
+
 Hi! I'm **Naveen T P**, working as an Android/iOS developer at [SecurAX Tech Solutions](http://www.securax.com/). Previously [Transaction Analysts](http://transactionanalysts.com/). I'm an active tech blogger. I write at [Medium](https://medium.com/@naveentp).
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamnaveentp.svg?style=social)](https://twitter.com/iamnaveentp) 
