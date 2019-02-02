@@ -2,7 +2,7 @@
 
 <img style="border-radius: 50%; width: 100px" src="https://avatars2.githubusercontent.com/u/16202134" />
 
-Hi! I'm **Naveen T P**, working as an Android/iOS developer at [SecurAX Tech Solutions](http://www.securax.com/). Previously [Transaction Analysts](http://transactionanalysts.com/). I'm an active tech blogger. I write at [Medium](https://medium.com/@naveentp).
+Hi! I'm **Naveen T P**, working as an Android developer at [SignEasy](https://www.getsigneasy.com/). Previously [SecurAX Tech Solutions](http://www.securax.com/), [Transaction Analysts](http://transactionanalysts.com/). I'm an active tech blogger. I write at [Medium](https://medium.com/@naveentp).
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamnaveentp.svg?style=social)](https://twitter.com/iamnaveentp) 
 [![GitHub followers](https://img.shields.io/github/followers/naveentp.svg?style=social&label=Follow)](https://github.com/naveentp)
