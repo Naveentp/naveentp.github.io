@@ -42,7 +42,7 @@ Any technical information which I come across will be logged here.
 Learning reactive extensions by examples in Kotlin.
 
 - [TIL [Today-I-Learned]](https://github.com/Naveentp/Today-I-Learned) - [![GitHub stars](https://img.shields.io/github/stars/Naveentp/Today-I-Learned.svg?style=social&label=Star)](https://github.com/Naveentp/Today-I-Learned) [![GitHub forks](https://img.shields.io/github/forks/Naveentp/Today-I-Learned.svg?style=social&label=Fork)](https://github.com/Naveentp/Today-I-Learned/fork)[![GitHub watchers](https://img.shields.io/github/watchers/Naveentp/Today-I-Learned.svg?style=social&label=Watch)](https://github.com/Naveentp/Today-I-Learned)  
-A collection tech concepts which I learn across a variety of languages.
+A collection tech concepts which I learn across a variety of languages.  
 
 ### Client/Personal projects
 - [Sarvam Sai](https://play.google.com/store/apps/details?id=com.naveentp.saiaarthi) - Sarvam Sai app is specially designed and developed for Shirdi sai baba devotees.
