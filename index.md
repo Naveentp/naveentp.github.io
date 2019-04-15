@@ -2,7 +2,7 @@
 
 <img style="border-radius: 50%; width: 100px" src="https://avatars2.githubusercontent.com/u/16202134" />
 
-Hi! I'm **Naveen T P**, working as an Android developer at [SignEasy](https://www.getsigneasy.com/). Previously [SecurAX Tech Solutions](http://www.securax.com/), [Transaction Analysts](http://transactionanalysts.com/). I'm an active tech blogger. I write at [Medium](https://medium.com/@naveentp).
+Hi! I'm **Naveen T P**, working as an Android developer at [SignEasy](https://www.getsigneasy.com/). Previously [SecurAX Tech Solutions](http://www.securax.com/), [Transaction Analysts](http://transactionanalysts.com/). I'm an active tech blogger. I write at [Medium](https://medium.com/@naveentp) and also writer at [MindOrks](https://medium.com/mindorks/about), [ProAndroidDev](https://proandroiddev.com/about) publications.
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamnaveentp.svg?style=social)](https://twitter.com/iamnaveentp) 
 [![GitHub followers](https://img.shields.io/github/followers/naveentp.svg?style=social&label=Follow)](https://github.com/naveentp)
@@ -10,11 +10,10 @@ Hi! I'm **Naveen T P**, working as an Android developer at [SignEasy](https://ww
 [![AboutMe](https://img.shields.io/badge/AboutMe-naveentp-orange.svg)](https://about.me/naveentp)
 
 
-### Recent activities
+### Mentions
 - [AndroidDev Digest #221](https://www.androiddevdigest.com/digest-221/) ([Preference Helper](https://github.com/Naveentp/PreferenceHelper) Android Library written in Kotlin)
 - [Mobile Development Digest #98](http://blog.alsedi.com/mobile-development-digest-98/) (No more SMS & Call Log permissions, Now what?)
 - [MindOrks Newsletter #27](https://mindorks.com/newsletter/edition/27) (No more SMS & Call Log permissions, Now what?)
-- Joined [MindOrks](https://medium.com/mindorks/about), [ProAndroidDev](https://proandroiddev.com/about) publication as a Writer.
 - [MindOrks Newsletter #22](https://mindorks.com/newsletter/edition/22) (How did I automate the generation of release APK)
 - [Android Weekly #337](http://androidweekly.net/issues/issue-337) (How did I automate the generation of release APK)
 - [Android Weekly #321](http://androidweekly.net/issues/issue-321) (Awesome List Of Online Tools For Android Developers)
