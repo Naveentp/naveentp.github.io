@@ -32,8 +32,8 @@ Hi! I'm **Naveen T P**, working as an Android developer at [SignEasy](https://ww
 
 ###  Open source projects
 
-- [Wiki App]() - Coming Soon..  
-A Wikipedia client app that implements MVVM architecture with Koin Dependency Injection
+- [Clean-MVVM-NewsApp](https://github.com/Naveentp/Clean-MVVM-NewsApp) - [![GitHub stars](https://img.shields.io/github/stars/naveentp/Clean-MVVM-NewsApp.svg?style=social&label=Star)](https://github.com/Naveentp/Clean-MVVM-NewsApp) [![GitHub forks](https://img.shields.io/github/forks/naveentp/Clean-MVVM-NewsApp.svg?style=social&label=Fork)](https://github.com/Naveentp/Clean-MVVM-NewsApp/fork) [![GitHub watchers](https://img.shields.io/github/watchers/naveentp/Clean-MVVM-NewsApp.svg?style=social&label=Watch)](https://github.com/Naveentp/Clean-MVVM-NewsApp)  
+NewsApp is a tiny little app which brings the latest news from Google news. Internally app uses News API to fetch the details. This app is built using Clean + MVVM architecture, uses Retrofit2 for making API calls and uses Room database to cache the data.
 
 - [[Android Library] PreferenceHelper](https://github.com/Naveentp/PreferenceHelper) - [![GitHub stars](https://img.shields.io/github/stars/naveentp/PreferenceHelper.svg?style=social&label=Star)](https://github.com/Naveentp/PreferenceHelper) [![GitHub forks](https://img.shields.io/github/forks/naveentp/PreferenceHelper.svg?style=social&label=Fork)](https://github.com/Naveentp/PreferenceHelper/fork) [![GitHub watchers](https://img.shields.io/github/watchers/naveentp/PreferenceHelper.svg?style=social&label=Watch)](https://github.com/Naveentp/PreferenceHelper)  
 SharedPreferences helper library can be used to save and fetch values easily.
