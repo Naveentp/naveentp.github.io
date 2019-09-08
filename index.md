@@ -11,6 +11,7 @@ Hi! I'm **Naveen T P**, working as an Android developer at [SignEasy](https://ww
 
 
 ### Mentions
+- [Android Weekly #378](https://androidweekly.net/issues/issue-378) ([Awesome Jetpack compose](https://github.com/Naveentp/Awesome-Jetpack-Compose) A collaborative list of awesome jetpack compose resources)
 - [Android LibHunt #156](https://android.libhunt.com/newsletter/156) ([Clean-MVVM-NewsApp](https://github.com/Naveentp/Clean-MVVM-NewsApp) An Android application built using Clean + MVVM architecture)
 - [AndroidDev Digest #221](https://www.androiddevdigest.com/digest-221/) ([Preference Helper](https://github.com/Naveentp/PreferenceHelper) Android Library written in Kotlin)
 - [Mobile Development Digest #98](http://blog.alsedi.com/mobile-development-digest-98/) (No more SMS & Call Log permissions, Now what?)
@@ -32,6 +33,9 @@ Hi! I'm **Naveen T P**, working as an Android developer at [SignEasy](https://ww
 *All the tech blog posts which were published under BinaryEverywhere site is no longer available :(
 
 ###  Open source projects
+
+- [Awesome-Jetpack-Compose](https://github.com/Naveentp/Awesome-Jetpack-Compose) - [![GitHub stars](https://img.shields.io/github/stars/naveentp/Awesome-Jetpack-Compose.svg?style=social&label=Star)](https://github.com/Naveentp/Awesome-Jetpack-Compose) [![GitHub forks](https://img.shields.io/github/forks/naveentp/Awesome-Jetpack-Compose.svg?style=social&label=Fork)](https://github.com/Naveentp/Awesome-Jetpack-Compose/fork) [![GitHub watchers](https://img.shields.io/github/watchers/naveentp/Awesome-Jetpack-Compose.svg?style=social&label=Watch)](https://github.com/Naveentp/Awesome-Jetpack-Compose)  
+A collaborative list of awesome jetpack compose resources.
 
 - [Clean-MVVM-NewsApp](https://github.com/Naveentp/Clean-MVVM-NewsApp) - [![GitHub stars](https://img.shields.io/github/stars/naveentp/Clean-MVVM-NewsApp.svg?style=social&label=Star)](https://github.com/Naveentp/Clean-MVVM-NewsApp) [![GitHub forks](https://img.shields.io/github/forks/naveentp/Clean-MVVM-NewsApp.svg?style=social&label=Fork)](https://github.com/Naveentp/Clean-MVVM-NewsApp/fork) [![GitHub watchers](https://img.shields.io/github/watchers/naveentp/Clean-MVVM-NewsApp.svg?style=social&label=Watch)](https://github.com/Naveentp/Clean-MVVM-NewsApp)  
 NewsApp is a tiny little app which brings the latest news from Google news. Internally app uses News API to fetch the details. This app is built using Clean + MVVM architecture, uses Retrofit2 for making API calls and uses Room database to cache the data.
