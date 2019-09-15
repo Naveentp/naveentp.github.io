@@ -11,6 +11,7 @@ Hi! I'm **Naveen T P**, working as an Android developer at [SignEasy](https://ww
 
 
 ### Mentions
+- [Android LibHunt #169](https://android.libhunt.com/newsletter/169) ([Awesome Jetpack compose](https://github.com/Naveentp/Awesome-Jetpack-Compose) A collaborative list of awesome jetpack compose resources)
 - [Android Weekly #378](https://androidweekly.net/issues/issue-378) ([Awesome Jetpack compose](https://github.com/Naveentp/Awesome-Jetpack-Compose) A collaborative list of awesome jetpack compose resources)
 - [Android LibHunt #156](https://android.libhunt.com/newsletter/156) ([Clean-MVVM-NewsApp](https://github.com/Naveentp/Clean-MVVM-NewsApp) An Android application built using Clean + MVVM architecture)
 - [AndroidDev Digest #221](https://www.androiddevdigest.com/digest-221/) ([Preference Helper](https://github.com/Naveentp/PreferenceHelper) Android Library written in Kotlin)
